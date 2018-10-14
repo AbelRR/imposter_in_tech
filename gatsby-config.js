@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Abel\'s First JAM Stack Application',
+    title: "Abel's JAM Stack Application",
   },
   plugins: [
     'gatsby-plugin-react-helmet',
