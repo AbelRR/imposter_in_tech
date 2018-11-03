@@ -9,11 +9,8 @@ const IndexPage = () => (
 
     <p>My first JAM Stack Application.</p>
 
-    <p>
-      I cannot be more excited to develop using amazing API's with great people.
-    </p>
-
-    <Link to="/page-2/"> CLICK OVER HERE!!! 🤝</Link>
+    <br />
+    <Link to="/user-page/"> User Page</Link>
   </Layout>
 )
 
